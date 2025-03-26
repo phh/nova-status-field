@@ -12,6 +12,8 @@ class StatusField extends Field
 
     /**
      * The field's component.
+     *
+     * @var string
      */
     public $component = 'nova-status-field';
 
