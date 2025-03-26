@@ -13,7 +13,7 @@ class StatusField extends Field
     /**
      * The field's component.
      */
-    public string $component = 'nova-status-field';
+    public $component = 'nova-status-field';
 
     /**
      * Define the icons to use for each status.
